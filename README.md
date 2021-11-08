@@ -1,14 +1,12 @@
-<br />
+## ChatBox :speech_balloon:
+This is a basic real time chat with a single room developed to increase my knowledge in React and Firebase. If you feel it can help you with something, feel free to use partly or totally this code.
+        <br />
+        
 <p align="center">
-  <h3 align="center">ChatBox</h3>
-
-  <p align="center">
-      A small project I made to show some of my skills
-      <br />
-   <br />
+    <br />
      <a href="https://xenodochial-agnesi-d88cec.netlify.app/">View Demo</a>
+    <br />
   </p>
-
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
@@ -45,15 +43,3 @@
     ```JS
     yarn start
     ```
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-
-## Contact
-
-ivucady@gmail.com
