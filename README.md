@@ -43,3 +43,8 @@ This is a basic real time chat with a single room developed to increase my knowl
     ```JS
     yarn start
     ```
+    <!-- CONTACT -->
+
+## Contact
+
+dacruzbrian1@gmail.com
