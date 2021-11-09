@@ -33,7 +33,7 @@ This is a basic real time chat with a single room developed to increase my knowl
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/ivucady/ChatBox.git
+    git clone https://github.com/dcBrian/ChatBox.git
     ```
 2. Install all depedencies
     ```sh
