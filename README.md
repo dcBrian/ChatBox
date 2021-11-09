@@ -1,7 +1,8 @@
 ## ChatBox :speech_balloon:
+
 This is a basic real time chat with a single room developed to increase my knowledge in React and Firebase. If you feel it can help you with something, feel free to use partly or totally this code.
-        <br />
-        
+<br />
+
 <p align="center">
     <br />
      <a href="https://xenodochial-agnesi-d88cec.netlify.app/">View Demo</a>
@@ -11,7 +12,7 @@ This is a basic real time chat with a single room developed to increase my knowl
 
 ## About The Project
 
-![ChatBox](/images/screenshot.png?raw=true)
+![ChatBox](/images/screen.png?raw=true)
 
 ### Built With
 
